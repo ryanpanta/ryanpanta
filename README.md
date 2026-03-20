@@ -19,22 +19,23 @@
 
 ## 🏎 Sobre mim
     
-- Tenho 21 anos                                                                       
-- Estudante do 7° período de Ciência da Computação na UNIFAL-MG
-- Aprofundando em Front-end e UX/UI                                                 
+- Tenho 23 anos                                                                       
+- Graduado em Ciência da Computação na UNIFAL-MG
+- 2 anos de experiência como Engenheiro de Software
 - Amante de gatos 🐈
 
 <br>
 
 ## 🚀 Dev Stack
     
-**Front-end:** `HTML` `CSS` `JavaScript` `TypeScript` `React.JS`   
+**Front-end:** `TypeScript` `React.JS` `Tailwind` 
 
-**Back-end:** `Node.js` `Express.js` 
+**Back-end:** `C#` `.NET` `PHP` `Laravel` `Mensageria (RabbitMQ, Service Bus)`
 
-**Version Control:** `Git` `GitHub`
+**Banco de Dados:**  `SQL Server` `MySQL` `MongoDB` `Elasticsearch`
 
-**Tools:** `Figma` `Adobe Photoshop`   
+**DevOps & Ferramentas:** `Git` `GitHub` `Azure DevOps` `Bitbucket` `Docker` `CI/CD`
+
 
 <br>
 
@@ -44,7 +45,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/ryanrodrigves)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "Email")](mailto:ryan.rodrigues62@outlook.com)
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ryanrodrigues9)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryanrodrigves/)
 
 <!--
